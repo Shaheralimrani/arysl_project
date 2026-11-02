@@ -1,0 +1,27 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# 🟢 Node.js / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# 🔒 Environment Variables (أهم سطر هنا!)
+.env
+.env.local
+.env.*.local
+
+# 🤖 AI Models & Data
+*.pth
+*.npy
+data/
+
+# 🛠️ VS Code & OS
+.vscode/
+.DS_Store
